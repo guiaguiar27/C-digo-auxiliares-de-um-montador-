@@ -34,6 +34,8 @@ void comp2(char *number){
 			}
 
 		}
+	// codigo a ser implementado em uma funcao main == complemento de 2 para binario negativo  
+	
 	
 
 }
